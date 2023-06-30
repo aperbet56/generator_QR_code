@@ -1,0 +1,2 @@
+- Ce site va vous permettre de générer un qr code à partir d'une adresse URL valide.
+- Une expression régulière est utilisée pour s'assurer que l'URL saisie est valide. Une URL typique peut avoir la forme http://www.example.com/index.html , qui indique un protocole ( http ou https), un nom d'hôte ( www.example.com ) et un nom de fichier ( index.html ).
